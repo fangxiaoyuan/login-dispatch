@@ -1,0 +1,11 @@
+{
+  "name": "wrc-ngjs",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "modernizr": "~2.8.2",
+    "angular" : "~1.4.7",
+    "ui-router" : "~0.3.1",
+    "angular-animate" : "~1.4.7"
+  }
+}
